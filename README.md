@@ -40,4 +40,4 @@ Handwritten digit classification is a fundamental problem in the field of comput
 ## Acknowledgments
 - This project was inspired by the MNIST dataset and aims to showcase the effectiveness of CNNs for handwritten digit classification.
 
--Special thanks to the TensorFlow and scikit-learn communities for providing valuable resources and documentation.
+- Special thanks to the TensorFlow and scikit-learn communities for providing valuable resources and documentation.
